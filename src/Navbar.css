@@ -1,0 +1,22 @@
+.style{
+    margin-left: 20px;
+}
+
+.navcon{
+    margin-right:20px;
+}
+
+
+@media(max-width:990px){
+.navcon-1{
+    margin-left:30px;
+    margin-right:30px;
+}
+}
+.navlink{
+    
+ color:rgb(4, 244, 28);
+ /* margin-left: -20px; */
+
+}
+

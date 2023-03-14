@@ -1,0 +1,79 @@
+.about {
+    padding: 80px 0;
+}
+
+.about .heading-about .about-h2 {
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+.about .heading-about  span {
+    color: #e40707;
+}
+
+.about .heading-about .about-p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.7;
+    color: #000000;
+    margin: 20px 0 60px;
+    padding: 0;
+}
+
+
+
+
+
+.img-fluid{
+border-radius: 20px;
+box-shadow: 0px 10px 20px 4px rgb(8 7 16 / 60%);
+}
+
+.img-fluid:hover{
+    box-shadow: 0px 5px 20px 4px rgb(8 7 16 / 70%);
+
+}
+
+.about .about2-h3 {
+    font-size: 25px;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    color: rgb(0, 0, 0);
+}
+
+.about-h2{
+    color: #000000;
+}
+
+.about .about-p {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.7;
+    color: #000000;
+    margin: 20px 0 15px;
+    padding: 0;
+    
+}
+
+.about .about-h3 {
+    font-size: 15px;
+    font-weight: 500;
+    margin: 8px 0;
+}
+
+.about .about-h3 .far {
+    color: #e40707;
+    margin-right: 10px;
+    padding-right: 20px;
+}
+
+.about{
+    /* background-color: #efad20; */
+    background-image:linear-gradient(rgb(169, 169, 169),rgb(219, 180, 80));
+}

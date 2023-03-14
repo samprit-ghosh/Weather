@@ -1,0 +1,107 @@
+.color{
+    background-color: rgb(20, 103, 204);
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+}
+
+.color-bottom{
+    background-color: rgb(38, 38, 222);
+}
+
+p{
+    color: rgb(255, 255, 255);
+    font-size: 1.0rem;
+}
+
+article{
+    font-size: 1.0rem;
+}
+.text-reset{
+    text-decoration: none;
+    color: aliceblue;
+   
+}
+
+.text-reset:hover{
+    
+    text-decoration: none;
+}
+
+p:hover{
+color: rgb(0, 0, 0);
+
+}
+
+.outer{
+    background-color: #42378f; color:whitesmoke;
+    background-image: linear-gradient(315deg, #2507ea 20%, #e01826 74%);
+
+   
+}
+
+.copyright{
+    background-color: rgb(52, 48, 48);
+    margin: 0px;
+    padding: 0px;
+  
+}
+
+h6{
+    color: rgb(0, 0, 0);
+}
+
+.bi-in{
+color: black;
+margin-right: 10px;
+
+}
+
+.tw:hover{
+    transform: scale(1.6);
+    color: white;
+
+}
+.fb:hover{
+    transform: scale(1.6);
+    color: white;
+
+}
+.link:hover{
+    transform: scale(1.6);
+    color: white;
+
+}
+.gg:hover{
+    transform: scale(1.6);
+    color: white;
+
+}
+.git:hover{
+    transform: scale(1.6);
+    color: white;
+
+}
+.insta:hover{
+    transform: scale(1.6);
+    color: white;
+
+}
+/* .link:hover{
+    color: beige;
+} */
+
+
+
+
+
+
+
+
+.footer-color{
+    color:black;
+}
+
+/* .sam{
+    margin-right:20px;
+    size:20px;
+} */
